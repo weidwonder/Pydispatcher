@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: dispatcher
+Version: 1.0
+Summary: A library for event-driven programming
+Home-page: https://github.com/olivierverdier/dispatch
+Author: Olivier Verdier
+Author-email: olivier.verdier@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
